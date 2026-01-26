@@ -11,6 +11,7 @@ public class Program3 {
         String og="12";
         for (String s:words){
             if (s.length()>maxSize){
+                maxSize=s.length();
               og=s;
             }
         }
