@@ -11,6 +11,7 @@
       <change afterPath="$PROJECT_DIR$/src/First50Questionsday1/Program5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/First50Questionsday1/Program6.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/First50Questionsday1/Program7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First50Questionsday1/Program8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,20 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Program7">
-    <configuration name="Program3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="First50Questionsday1.Program3" />
-      <module name="arraysProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="First50Questionsday1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Program8">
     <configuration name="Program4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="First50Questionsday1.Program4" />
       <module name="arraysProgramming" />
@@ -109,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Program8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="First50Questionsday1.Program8" />
+      <module name="arraysProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="First50Questionsday1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program8" />
         <item itemvalue="Application.Program7" />
         <item itemvalue="Application.Program6" />
         <item itemvalue="Application.Program5" />
         <item itemvalue="Application.Program4" />
-        <item itemvalue="Application.Program3" />
       </list>
     </recent_temporary>
   </component>
