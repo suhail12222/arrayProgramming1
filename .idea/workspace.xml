@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4db0fee9-705d-450a-92b9-3f76cf21c2ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/First50Questionsday1/Program10.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/First50Questionsday1/Program2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/First50Questionsday1/Program3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/First50Questionsday1/Program4.java" afterDir="false" />
@@ -44,9 +45,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Program9">
-    <configuration name="Program5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="First50Questionsday1.Program5" />
+  <component name="RunManager" selected="Application.Program10">
+    <configuration name="Program10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="First50Questionsday1.Program10" />
       <module name="arraysProgramming" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program10" />
         <item itemvalue="Application.Program9" />
         <item itemvalue="Application.Program8" />
         <item itemvalue="Application.Program7" />
         <item itemvalue="Application.Program6" />
-        <item itemvalue="Application.Program5" />
       </list>
     </recent_temporary>
   </component>
